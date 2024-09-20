@@ -2148,7 +2148,7 @@ button,
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
-      weight:100%;
+      width:100%;
       }
   @media screen and (orientation: portrait) {
     #banner {
