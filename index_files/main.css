@@ -2140,7 +2140,6 @@ button,
     width: 50%; }
     #banner .image img {
       height: 100%;
-      overflow:hidden;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
@@ -2149,6 +2148,7 @@ button,
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
+      overflow:hidden;
       }
   @media screen and (orientation: portrait) {
     #banner {
